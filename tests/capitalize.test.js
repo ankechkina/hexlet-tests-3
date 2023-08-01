@@ -5,4 +5,4 @@ assert.strictEqual(capitalize(''), '');
 
 assert.strictEqual(capitalize('hello'), 'Hello');
 
-console.log('Поздравляю! Вы - сладкая булочка!');
+console.log('Ура! Вы - сладкая булочка!');
